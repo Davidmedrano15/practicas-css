@@ -1,0 +1,43 @@
+.text > span {
+    text-decoration: underline;
+}
+.link {
+    text-decoration: none;
+}
+
+.title {
+    text-align: center;
+}
+
+.site-nav .link {
+    text-transform: uppercase;
+}
+.post-title {
+    text-align: center;
+}
+.post-text {
+    text-indent: 100px;
+
+}
+.text {
+    font-size: 20px;
+    line-height: 1.5; 
+}
+
+.david .medrano{
+    text-align: center;
+    letter-spacing: 10px;
+}
+.bueno{
+    letter-spacing: 5px;
+}
+.hola {
+    color:#ffffff
+    ;
+    text-shadow:  4px 4px 4px #000000;   
+}
+.bebe {
+    color:#ffffff;
+    text-shadow: 2px 2px 20px #ff0000, 5px 5px 5px #000000;
+    white-space:pre-wrap
+}
